@@ -15,4 +15,3 @@
    Here we can have other content.
 ** Second subsection
    Other content arriving!
-#+END: document

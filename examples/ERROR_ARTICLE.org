@@ -1,0 +1,12 @@
+#+DOCUMENTCLASS: [a4paper, 11pt] article
+
+#+TITLE: Small article example
+#+AUTHOR: Dario Balboni
+#+DATE: 15 Sept 2018
+
+#+BEGIN: document
+#+MAKETITLE
+
+Nothing in this document, except wrong closing environment.
+
+#+END: somethingother
