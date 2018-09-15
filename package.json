@@ -1,0 +1,23 @@
+{
+  "name": "org2book",
+  "version": "1.0.0",
+  "description": "Convert org files to a LaTeX book",
+  "main": "org2book.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trenta3/org2book.git"
+  },
+  "author": "Dario Balboni",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/trenta3/org2book/issues"
+  },
+  "homepage": "https://github.com/trenta3/org2book#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "pegjs": "^0.10.0"
+  }
+}

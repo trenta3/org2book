@@ -1,0 +1,18 @@
+#+DOCUMENTCLASS: [a4paper, 11pt] article
+
+#+TITLE: Small article example
+#+AUTHOR: Dario Balboni
+#+DATE: 15 Sept 2018
+
+#+BEGIN: document
+#+MAKETITLE
+
+* First article example
+  For now we just support simple text lines.
+
+  And paragraphs also.
+** First subsection
+   Here we can have other content.
+** Second subsection
+   Other content arriving!
+#+END: document
